@@ -1,15 +1,15 @@
 {
   "short_name": "Alias",
-  "name": "בן יוסף Alias",
+  "name": "Ben Yosef Alias App",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1976d2",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }
